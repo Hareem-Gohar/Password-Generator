@@ -1,5 +1,3 @@
-
-```markdown
 # Password Generator
 
 This project is a Password Generator built with React and Tailwind CSS. It allows users to generate random passwords with customizable options for length, inclusion of special characters, and numbers. Users can also copy the generated password to the clipboard with a single click.
