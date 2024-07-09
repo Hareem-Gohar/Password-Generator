@@ -19,15 +19,15 @@ This project is a Password Generator built with React and Tailwind CSS. It allow
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/password-generator.git
-   cd password-generator
-   ```
+```bash
+git clone https://github.com/yourusername/password-generator.git
+cd password-generator
+```
 
 2. Install the dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 ### Running the App
 
