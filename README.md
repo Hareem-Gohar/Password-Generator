@@ -20,7 +20,7 @@ This project is a Password Generator built with React and Tailwind CSS. It allow
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Hareem-Gohar/Password-Generator.git
 cd password-generator
 ```
 
